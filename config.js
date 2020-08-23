@@ -9,7 +9,6 @@ module.exports = {
         dir: {
             users: "/home/devrabin/Documents/Tp/backend_packages/upload/uploads/users",
             services: "/home/devrabin/Documents/Tp/backend_packages/upload/uploads/service",
-            log: "/var/log",
         },
     }
 }
