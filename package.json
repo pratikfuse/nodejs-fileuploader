@@ -1,0 +1,31 @@
+{
+  "name": "backend_packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.735.0",
+    "busboy": "^0.3.1",
+    "chalk": "^4.1.0",
+    "concat-stream": "^2.0.0",
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "jimp": "^0.16.0",
+    "lodash": "^4.17.20",
+    "mkdirp": "^1.0.4",
+    "multer": "^1.4.2",
+    "sharp": "^0.25.4",
+    "socket.io": "^2.3.0",
+    "streamifier": "^0.1.1",
+    "uuid": "^8.3.0"
+  }
+}

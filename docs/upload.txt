@@ -1,0 +1,23 @@
+-----------------------------
+File upload folder structure
+-----------------------------
+root_upload_dir: uploads
+
+root_upload_dir
+    users
+        <user_id>
+            avatars
+                original.png
+                lg_uuid().png (optinal)
+                md_uuid().png
+                sm_uuid().png
+            files (in future)
+    services
+        <service_id>
+            posts
+                images
+                    original.png
+                    lg_uuid().png (optinal)
+                    md_uuid().png
+                    sm_uuid().png
+            files (in future)
